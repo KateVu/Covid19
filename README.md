@@ -31,4 +31,4 @@ Images:
 
 # Static screens
 
-<img src="https://github.com/KateVu/Covid19/blob/master/Images/statistic_portrait.png" width="200">  <img src="https://github.com/KateVu/Covid19/blob/master/Images/statistic_portrait_detail.png" width="200">
+<img src="https://github.com/KateVu/Covid19/blob/master/Images/static.png" width="200">  <img src="https://github.com/KateVu/Covid19/blob/master/Images/static_detail.png" width="200">
